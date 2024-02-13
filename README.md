@@ -3,7 +3,7 @@
 
 # Group Members:
 - Andy Chen
-- Gar Yan Mai (Carmen)
+- Carmen Mai (Gar Yan)
 - Tenzin Pelchok
 
 **Requirements**: https://docs.google.com/document/d/1djD0VMOxct1eiHj7tiv0HYmfNdgD4YXA1nGX4urJj_U/edit?usp=sharing
